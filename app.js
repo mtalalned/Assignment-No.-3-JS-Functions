@@ -62,3 +62,50 @@
 //     }
 //     return product
 // }
+// factorial(5)
+
+// Question No. 8
+// var startNumber;
+// var endNumber;
+// function countBtwNumbers() {
+//     if (startNumber == undefined && endNumber == undefined){
+//         startNumber = +prompt ('Enter starting number')
+//         endNumber = +prompt ('Enter ending number')
+//         countBtwNumbers()
+//     }else if ((startNumber >= 0 || startNumber <=0) && startNumber<endNumber){
+//         console.log (startNumber)
+//         startNumber += 1
+//         countBtwNumbers()
+//     }else {
+//         console.log (endNumber)
+//     }
+// }
+// countBtwNumber()
+
+// Question No. 9
+// function calculateHypotenuse (){
+//     // Variable Declaration
+//     var base = +prompt ('Enter length of base')
+//     var perpendicular = +prompt ('Enter length of perpendicular')
+    
+//     // Inner Function
+//     function calculateSquare (number){
+//         return number**2
+//     }
+
+//     // Hypotenuse
+//     var hypotenuse = Math.sqrt(calculateSquare(base)+calculateSquare(perpendicular))
+    
+//     return hypotenuse
+// }
+
+// var k = calculateHypotenuse()
+// console.log (k)
+
+// Question No. 10
+// NOT DONE
+
+// Question No. 11
+// NOT DONE
+
+// Question No. 12
