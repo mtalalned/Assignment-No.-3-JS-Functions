@@ -109,3 +109,68 @@
 // NOT DONE
 
 // Question No. 12
+// function AreaOfRectangle (width,height){
+//     return width*height
+// }
+// var k = AreaOfRectangle(10,5)
+// console.log (k)
+
+// Question No. 13
+// NOT DONE
+
+// Question No. 14
+// NOT DONE
+
+// Question No. 15
+// var param = function inner() { 
+//        return typeof inner; 
+// }
+// alert(param()); 
+
+// Question No. 16
+// function PowerOfNumber(number,power){
+//     return number**power
+// }
+// var k = PowerOfNumber(2,4)
+// console.log (k)
+
+// Question No. 17
+// var randomNumber;
+// function dice (){
+//     randomNumber = Math.floor(Math.random()*10)
+//     if (randomNumber>=1 && randomNumber <= 6) {
+//         return randomNumber
+//     }else {
+//         return dice()
+//     }
+// }
+// var k = dice()
+// console.log(k)
+
+// Question No. 18
+// function reverseNumber(x) {
+//     var reverseString = x.toString().split('').reverse().join('')
+//     return reverseString
+// }
+// var k = reverseNumber(22550560)
+// console.log (k)
+
+// Question No. 19
+// function checkPalindrome(string) {
+//     if (typeof(string) === 'number') {
+//         console.log ('You have entered a number, type string please')
+//     } else if (typeof(string) === 'string'){
+//         reverseString = string.split('').reverse().join('')
+//         if (reverseString === string){
+//             console.log ('Its a Palindrome')
+//         }else {
+//             console.log ('Its not a Palindrome')
+//         }
+//     } else if (typeof(string) === 'boolean'){
+//         console.log ('Boolean entered, enter string please')
+//     }else {
+//         console.log ('Enter argument please')
+//     }
+// }
+
+// checkPalindrome ('madam')
