@@ -4,11 +4,17 @@
 // }
 // printHello()
 
+
+
+
 // Question No. 2
 // var p = document.querySelector ('#p')
 // function date_time(){
 //     p.innerHTML = Date();
 // }
+
+
+
 
 // Question No.3
 // function greetUser (firstname , lastname) {
@@ -16,12 +22,20 @@
 // }
 // greetUser ('Muhammad', 'Talal')
 
+
+
+
+
 // Question No. 4
 // function addNumbers () {
 //     var num1 = +prompt('Enter first number')
 //     var num2 = +prompt('Enter second number')
 //     return num1+ num2
 // }
+
+
+
+
 
 // Question No. 5
 // function calculator (num1,num2,operator) {
@@ -38,10 +52,18 @@
 //     }
 // }
 
+
+
+
+
 // Question No. 6
 // function square(number) {
 //     return number*number
 // }
+
+
+
+
 
 // Question No. 7
 // var num;
@@ -64,6 +86,10 @@
 // }
 // factorial(5)
 
+
+
+
+
 // Question No. 8
 // var startNumber;
 // var endNumber;
@@ -82,6 +108,10 @@
 // }
 // countBtwNumber()
 
+
+
+
+
 // Question No. 9
 // function calculateHypotenuse (){
 //     // Variable Declaration
@@ -98,15 +128,27 @@
     
 //     return hypotenuse
 // }
-
 // var k = calculateHypotenuse()
 // console.log (k)
+
+
+
+
+
 
 // Question No. 10
 // NOT DONE
 
+
+
+
+
 // Question No. 11
 // NOT DONE
+
+
+
+
 
 // Question No. 12
 // function AreaOfRectangle (width,height){
@@ -115,11 +157,23 @@
 // var k = AreaOfRectangle(10,5)
 // console.log (k)
 
+
+
+
+
 // Question No. 13
 // NOT DONE
 
+
+
+
+
 // Question No. 14
 // NOT DONE
+
+
+
+
 
 // Question No. 15
 // var param = function inner() { 
@@ -127,12 +181,20 @@
 // }
 // alert(param()); 
 
+
+
+
+
 // Question No. 16
 // function PowerOfNumber(number,power){
 //     return number**power
 // }
 // var k = PowerOfNumber(2,4)
 // console.log (k)
+
+
+
+
 
 // Question No. 17
 // var randomNumber;
@@ -147,6 +209,10 @@
 // var k = dice()
 // console.log(k)
 
+
+
+
+
 // Question No. 18
 // function reverseNumber(x) {
 //     var reverseString = x.toString().split('').reverse().join('')
@@ -154,6 +220,10 @@
 // }
 // var k = reverseNumber(22550560)
 // console.log (k)
+
+
+
+
 
 // Question No. 19
 // function checkPalindrome(string) {
@@ -172,17 +242,30 @@
 //         console.log ('Enter argument please')
 //     }
 // }
-
 // checkPalindrome ('madam')
+
+
+
+
 
 // Question No. 20
 // NOT DONE
 
+
+
+
 // Question No. 21
 // NOT DONE
 
+
+
+
 // Question No. 22
 // NOT DONE
+
+
+
+
 
 // // Question No. 23
 // function typeOfArgument (input){
@@ -191,10 +274,65 @@
 // var k = typeOfArgument()
 // console.log (k)
 
+
+
+
+
 // Question No. 24
 // NOT DONE
 
+
+
+
 // Question No. 25
 // NOT DONE
 
-// Question No. 25
+
+
+
+// Question No. 26
+// function calculateAge (birthYear,currentYear) {
+//     var displayAge = document.querySelector('#question-26')
+//     var Age = currentYear - birthYear
+//     var additionAge = Age + 1
+//     displayAge.innerHTML = 'Current Year: '+birthYear+"<br>"+"Birth Year: "+currentYear+"<br><br><br>"+"They are either "+Age+" or "+additionAge+" years old"
+// }
+// calculateAge(1994,2015)
+
+
+
+
+
+// Question No. 27
+// function calculateSupply(age,amountPerDay){
+//     var maxAge = 75
+//     return ((amountPerDay*365)*(maxAge-age))
+// }
+// var k = calculateSupply(65,1)
+// console.log (k)
+
+
+
+
+// Question No. 28
+// function calcCircumference (radius){
+//     var circumference = 2 * Math.PI * radius
+//     console.log('The circumference is '+circumference)
+//     return circumference
+// }
+// calcCircumference(5)
+
+// function calcArea (radius){
+//     var area = Math.PI * (radius**2)
+//     console.log('The area is '+area)
+//     return area
+// }
+// calcArea (5)
+
+
+
+
+
+
+// Question No. 29
+// 
