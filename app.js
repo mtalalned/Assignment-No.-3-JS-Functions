@@ -174,3 +174,27 @@
 // }
 
 // checkPalindrome ('madam')
+
+// Question No. 20
+// NOT DONE
+
+// Question No. 21
+// NOT DONE
+
+// Question No. 22
+// NOT DONE
+
+// // Question No. 23
+// function typeOfArgument (input){
+//     return typeof(input)
+// }
+// var k = typeOfArgument()
+// console.log (k)
+
+// Question No. 24
+// NOT DONE
+
+// Question No. 25
+// NOT DONE
+
+// Question No. 25
